@@ -2,7 +2,7 @@ import React from 'react';
 
 const SignIn = () => {
     return (
-        <div className='pt-6'>
+        <div className='pt-6 bg-violet-300'>
             <form action="">
                 <div className='flex flex-col bg-slate-200 w-1/3 m-auto py-4 px-3 '>
                     <div className='my-3'>
