@@ -18,7 +18,7 @@ const router = createBrowserRouter([
                 element:<SignUp></SignUp>
             },
             {
-                path:"signIn",
+                path:"logIn",
                 element:<SignIn></SignIn>
             }
         ]
