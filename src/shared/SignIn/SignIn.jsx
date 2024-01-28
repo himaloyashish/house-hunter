@@ -14,7 +14,7 @@ const SignIn = () => {
                         <input className='ml-2 border border-indigo-400' type="text" name="Email" id="" />
                     </div>
 
-                    <button className='border border-purple-400' type="submit">Login </button>
+                    <button className='border border-purple-400' type="submit">Login</button>
                 </div>
             </form>
         </div>
